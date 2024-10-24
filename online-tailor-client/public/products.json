@@ -1,0 +1,74 @@
+[
+  {
+    "_id": 1,
+    "name": "Red Star",
+    "price": "200",
+    "img": "https://i.pinimg.com/236x/8b/cf/c9/8bcfc9dd61d73d11992f2e0eb868918b.jpg"
+  },
+  {
+    "_id": 2,
+    "name": "Pink ",
+    "price": "250",
+    "img": "https://i.pinimg.com/736x/d4/29/21/d4292142f78e58935fca06bfea46a768.jpg"
+  },
+  {
+    "_id": 3,
+    "name": "Shirt",
+    "price": "250",
+    "img": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800,h_800/https://fifthcolumn.co.uk/wp-content/uploads/2023/08/FC-Resources-Print-Size-Ratio-2.jpg"
+  },
+  {
+    "_id": 4,
+    "name": "Design Shirt",
+    "price": "260",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToV4XZfFsRrJGq7riEj8XP1Ab31U4itXJE7Q&s"
+  },
+  {
+    "_id": 5,
+    "name": "Shirt",
+    "price": "260",
+    "img": "https://img.freepik.com/premium-photo/short-sleeves-polo-shirt-display-stand_850000-12691.jpg"
+  },
+  {
+    "_id": 6,
+    "name": "Pink",
+    "price": "260",
+    "img": "https://www.wikihow.com/images/thumb/5/5f/Make-a-Petticoat-Step-2-Version-3.jpg/550px-nowatermark-Make-a-Petticoat-Step-2-Version-3.jpg"
+  },
+  {
+    "_id": 7,
+    "name": "Style",
+    "price": "660",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTk0vmPMrmDdA9JdzbucVx3npv9H48fwd-pAg93DNo4zNbjfVaZq74DZ9w1A5gxSV_79Y&usqp=CAU"
+  },
+  {
+    "_id": 8,
+    "name": "Baby",
+    "price": "760",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAp9w4fP-FYz1uWvHL6UEbs5gdzxHwEvkHQRYVDFroF8ik5QIIsmvFdtP9WnTJ6fydQrg&usqp=CAU"
+  },
+  {
+    "_id": 9,
+    "name": "Blue ",
+    "price": "860",
+    "img": "https://m.media-amazon.com/images/I/81IcTC3uTrL._AC_SL1200_.jpg"
+  },
+  {
+    "_id": 10,
+    "name": "Yellow",
+    "price": "580",
+    "img": "https://i.etsystatic.com/42187756/c/1000/1000/0/0/il/b69d13/5134723932/il_300x300.5134723932_h04d.jpg"
+  },
+  {
+    "_id": 11,
+    "name": "Black Pant",
+    "price": "580",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQewpalZwm6I6dN-GHuFYwD0V4wcbHDS7r_jQ&s"
+  },
+  {
+    "_id": 12,
+    "name": "Black",
+    "price": "580",
+    "img": "https://movingthreadla.com/cdn/shop/files/7EB9E52C-9960-4F31-B7C5-BF93A23FD9BD_2000x.heic?v=1708458350"
+  }
+]
